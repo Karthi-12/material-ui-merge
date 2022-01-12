@@ -108,6 +108,14 @@ module.exports = {
           "src/Image/Image.js",
           "src/CssBaseline/CssBaseline.js"
         ]
+      },
+      {
+        name: "My Components",
+        include: [
+          "src/NestedList/NestedList.js",
+          "src/SampleNestedList/SampleNestedList.js"
+         
+        ]
       }
     ],
     wrapper: 'src/Wrapper/UXPinWrapper.js',
