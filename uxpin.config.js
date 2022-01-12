@@ -113,7 +113,7 @@ module.exports = {
         name: "My Components",
         include: [
           "src/NestedList/NestedList.js",
-          "src/SampleNestedList/SampleNestedList.js"
+         // "src/SampleNestedList/SampleNestedList.js"
          
         ]
       }
